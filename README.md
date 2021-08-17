@@ -1,18 +1,21 @@
 # pro-profile
 
-<!-- ![Employee-Tracker](./assets/employee-tracker.gif?raw=true "Employee Tracker") -->
+![Pro-Profile](./images/pro-profile-vid.gif?raw=true "Pro Profile")
 
 ## Description
 
-This is a simple portfolio website that lists some of my professional interests and projects I have completed to date. It includes the following sections: About, Portfolio, Resume, Contact.
+This is a simple profile website that lists some of my professional interests and portfolio projects that I have completed to date. It includes the following sections: About, Portfolio, Resume, Contact.
 
 ## Deployed Application
 
-<!-- Include Heroku App Link Here -->
+Visit my profile here: https://nicklynnjohnson.github.io/pro-profile/
 
 ## Technologies Used
 
-* List technologies here...
+* HTML
+* CSS
+* Materialize
+* JQuery
 
 ## Author/Programmer
 
